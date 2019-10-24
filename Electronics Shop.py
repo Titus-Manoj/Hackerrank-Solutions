@@ -16,3 +16,4 @@ elif min(k)+min(d)<=b:
 			if sum<=b:
 				s.append(sum)
 	print(max(s))
+print("nice")
